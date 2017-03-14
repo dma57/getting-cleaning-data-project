@@ -380,6 +380,7 @@ Work done by the run_analysis.R script:
 
 ## Results
 the final dataset obtained can be viewed by:
+
 	>View(alldata2)
 
 the tidyDataAvg.txt is generated from this dataset, in the working directory 
